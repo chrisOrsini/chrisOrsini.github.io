@@ -1,0 +1,21 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	display: flex;
+	justify-content: space-around;
+	background-color: green;
+	flex-wrap: wrap;
+}
+
+section{
+	background-color: red;
+	padding: 30px;
+
+}
+input{
+	text-align: center;
+}
